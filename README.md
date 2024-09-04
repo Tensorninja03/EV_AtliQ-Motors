@@ -7,7 +7,7 @@ This project focuses on a detailed analysis of the Electric Vehicle (EV) and Hyb
 
 * Market Study: 
     - Conduct a comprehensive analysis of the existing EV and Hybrid vehicle market in India.
-    - Address key questions outlined in the _[Primary and Secondary Questions](#)_ document to guide AtliQ Motors' strategic decision-making.
+    - Address key questions outlined in the _[Primary and Secondary Questions](https://github.com/Tensorninja03/EV_AtliQ-Motors/blob/main/primary_and_secondary_questions.pdf)_ document to guide AtliQ Motors' strategic decision-making.
 
 * Dashboard Design:
     - Develop a self-explanatory and intuitive dashboard that showcases key metrics and findings from the analysis.
@@ -55,7 +55,7 @@ This project focuses on a detailed analysis of the Electric Vehicle (EV) and Hyb
 ## How to Use This Repository
 
 * Primary and Secondary Questions Document:
-    - Refer to the _[primary_and_secondary_questions.pdf](#)_ to understand the specific questions addressed in this analysis.
+    - Refer to the _[primary_and_secondary_questions.pdf](https://github.com/Tensorninja03/EV_AtliQ-Motors/blob/main/primary_and_secondary_questions.pdf)_ to understand the specific questions addressed in this analysis.
 
 * Dashboard: 
     - Access the interactive dashboard file to explore the data and insights visually.
